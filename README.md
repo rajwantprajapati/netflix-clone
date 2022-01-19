@@ -9,5 +9,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Netflix Clone Application is deployed using firbase.Below is Firebase deployment URL:
 
-https://netflix-clone-446b9.web.app/
+https://app-clone-9b917.web.app/
 
